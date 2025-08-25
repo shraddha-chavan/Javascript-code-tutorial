@@ -1,0 +1,10 @@
+a="Shraddha Chavan";
+age=19;
+price=99.99;
+x=null;
+y=undefined;
+console.log(a);
+console.log(age);
+console.log(price);
+console.log(x);
+console.log(y);
