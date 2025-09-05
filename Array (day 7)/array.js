@@ -4,3 +4,4 @@ console.log(marks);
 console.log(marks.length);//property
 
 
+
